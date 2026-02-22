@@ -41,7 +41,7 @@ Este projeto foi inspirado no desafio da DIO (Bootcamp Bradesco GenAI & Dados) p
 Visualize o notebook diretamente pelo nbviewer neste link (pode demorar alguns minutos para atualizar):  
 [Visualizar Notebook no nbviewer](https://nbviewer.org/github/BARBARANFS/VoxAI_DIO/blob/main/VoxAI_DIO.ipynb)
 
-Ou abra imediatamente no Google Colab:  
+Ou abra imediatamente no Google Colab (recomendado):
 [Abrir no Colab](https://colab.research.google.com/github/BARBARANFS/VoxAI_DIO/blob/main/VoxAI_DIO.ipynb)
 
 
