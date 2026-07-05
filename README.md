@@ -66,7 +66,7 @@ Entre seus principais diferenciais estão:
 - 📚 Utilização de modelos pré-treinados da Hugging Face
 - 🐍 Desenvolvimento completo em Python
 
-Mais do que um assistente de voz, o projeto demonstra uma pipeline completa de interação homem-máquina baseada em linguagem natural.
+Mais do que um assistente de voz, o projeto demonstra uma pipeline completo de interação homem-máquina baseada em linguagem natural.
 
 ---
 
